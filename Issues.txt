@@ -1,0 +1,4 @@
+Client =>   
+    the functionalities of the scan components are not working unable to load images
+    
+    
