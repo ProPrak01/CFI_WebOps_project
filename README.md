@@ -1,5 +1,9 @@
 # CV Dental Application Documentation
 
+## Preview:
+![](images/image.png)
+
+
 ## Overview
 
 This documentation part consists of the frontend part of the project
